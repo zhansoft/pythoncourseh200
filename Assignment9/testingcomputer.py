@@ -1,0 +1,1 @@
+print("You're a dumb bitch for spilling 40 ounces of water on your fUCKING computer.")
